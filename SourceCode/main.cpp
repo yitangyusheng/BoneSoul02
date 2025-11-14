@@ -9,7 +9,7 @@
 
 int curScene	= SCENE_NONE;
 int nextScene	= SCENE_TITLE;
-
+int kengo;
 
 //WinMainÇãLèq
 int APIENTRY wWinMain(HINSTANCE, HINSTANCE, LPWSTR, int)
